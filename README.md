@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syarip Muhammad Abdillah</h1>
-<h3 align="center">An ordinary system engineer from Indonesia</h3>
+<h3 align="center">An ordinary systems engineer from Indonesia</h3>
 
-📫 How to reach me **sectenzorg@gmail.com**
+📫 How to reach me **hello@syarifabdillah.my.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
